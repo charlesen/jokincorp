@@ -1,4 +1,4 @@
 jokincorp
 =========
 
-The Funny Enterprise Social Network
+Yet Another Enterprise Social Network
